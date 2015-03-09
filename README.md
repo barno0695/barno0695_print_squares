@@ -1,1 +1,1 @@
-# barno0695_print_squares
+Prints numbers and their squares.
